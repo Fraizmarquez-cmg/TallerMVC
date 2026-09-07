@@ -1,0 +1,4 @@
+com/mycompany/tallermvc/TallerMVC.class
+com/mycompany/tallermvc/controller/ProductoController.class
+com/mycompany/tallermvc/view/ProductoView.class
+com/mycompany/tallermvc/model/Producto.class
